@@ -109,7 +109,7 @@ background-color: rgb(235, 241, 250) ;
 }
 .third-section-h{
 text-align: center;
-padding-top: 5%;
+padding-top: 7%;
 }
 #third-section{
     height: 800px;
@@ -118,11 +118,30 @@ padding-top: 5%;
     border: white solid 15px;
     border-radius: 10px;
     float: left;
-    width: 20%;
-    height: 400px;
-    margin-left: 8%;
+    width: 25%;
+    height: 390px;
+    margin-left: 5%;
+    margin-top: 4%;
     background-color: white;
 }
 .project-img{
     width: 100%;
+}
+.work-inquiry{
+    background-image: url(shapes/Group_33094_1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 190px;
+    width: 60% ;
+    margin: 8% 20%;
+    border-radius: 35px;
+
+    
+
+}
+.work-div{
+    float: left;
+    padding-left: 10%;
+padding-top: 40px;
+padding-bottom: 50px;
 }
